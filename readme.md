@@ -184,4 +184,4 @@ Every ban, unban, and baseline recalculation is written to /app/audit.log:
 See .env.example for all required variables.
 
     SLACK_WEBHOOK_URL    Your Slack incoming webhook URL
-
+**Blog Post:** https://medium.com/@teddycayne/how-i-built-a-real-time-ddos-detection-system-that-blocks-attackers-in-under-10-seconds-f924a4f0d606
