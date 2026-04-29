@@ -7,7 +7,7 @@ A real-time HTTP traffic anomaly detection and auto-blocking system built alongs
 - Server IP: 18.250.21.245
 - Metrics Dashboard: http://18.250.21.245:8080
 - GitHub: https://github.com/Teddy-adim/hng-anomaly-detector
-- Blog Post: [Add link after publishing]
+- Blog Post: https://medium.com/@teddycayne/how-i-built-a-real-time-ddos-detection-system-that-blocks-attackers-in-under-10-seconds-f924a4f0d606
 
 ## Language Choice
 
